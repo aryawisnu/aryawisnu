@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryawisnu
-- I’m interested in UAV and Robotics
+- I’m interested in UAV, Embedded System, and Robotics
 - Electronic VTOL Division of Bayucaraka ITS UAV Research Team  
 ## How to reach me ##
 - LinkedIn : linkedin.com/in/aryawisnu
